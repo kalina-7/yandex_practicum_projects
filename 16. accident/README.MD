@@ -53,7 +53,7 @@
 - sklearn.preprocessing.LabelBinarizer
 - sklearn.preprocessing.OneHotEncoder
 - sklearn.preprocessing.StandardScaler
-- from sklearn.tree.DecisionTreeClassifier
+- sklearn.tree.DecisionTreeClassifier
 - skorch.NeuralNetRegressor
 - skorch.callbacks.EpochScoring
 - skorch.callbacks.EarlyStopping
